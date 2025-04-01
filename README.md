@@ -44,3 +44,8 @@ python app.py
 ## How It Works
 - The app accepts an image of a plant and detects the disease based on the trained ML model.
 - Once the disease is identified, it provides a treatment recommendation.
+
+```bash
+python --version
+```
+hsdkfhs
