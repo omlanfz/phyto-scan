@@ -14,4 +14,7 @@
 After installation, verify the Python version:
 ```bash
 python --version
+
+
+
 You should see Python 3.10.11
