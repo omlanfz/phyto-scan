@@ -12,9 +12,13 @@
 
 ### 2. Check Installation
 After installation, verify the Python version:
-```bash
-python --version
-
-
-
+`python --version`
 You should see Python 3.10.11
+
+### 3. Create a Virtual Environment
+To avoid conflicts with other projects, it's best to use a virtual environment:
+`py -3.10 -m venv tf_env`
+
+### 4. Activate the Virtual Environment
+For Windows:
+`tf_env\Scripts\activate`
