@@ -1,0 +1,41 @@
+{
+  "apple": {
+    "Apple Scab": "Use fungicides like Captan or Mancozeb. Prune infected leaves.",
+    "Black Rot": "Apply copper-based fungicides. Remove infected fruit.",
+    "Cedar Apple Rust": "Use fungicides with myclobutanil. Plant resistant varieties.",
+    "Healthy": "No treatment needed. Maintain proper watering and nutrients."
+  },
+  "potato": {
+    "Early Blight": "Apply chlorothalonil-based fungicides. Rotate crops.",
+    "Late Blight": "Use systemic fungicides like Metalaxyl. Remove infected plants.",
+    "Healthy": "No treatment needed. Maintain proper soil drainage."
+  },
+  "bell_pepper": {
+    "Bacterial Spot": "Use copper-based sprays and avoid overhead watering. Remove infected leaves.",
+    "Healthy": "No treatment needed. Ensure proper air circulation."
+  },
+  "cherry": {
+    "Powdery Mildew": "Apply sulfur or potassium bicarbonate-based fungicides. Prune affected areas.",
+    "Healthy": "No treatment needed. Avoid excessive humidity."
+  },
+  "corn": {
+    "Cercospora Leaf Spot": "Apply strobilurin or triazole fungicides. Improve field sanitation.",
+    "Common Rust": "Use resistant hybrids. Apply fungicides if severe.",
+    "Northern Leaf Blight": "Apply fungicides with mancozeb or chlorothalonil. Rotate crops.",
+    "Healthy": "No treatment needed. Ensure good soil health."
+  },
+  "grape": {
+    "Black Rot": "Apply fungicides like myclobutanil or mancozeb. Remove infected grapes.",
+    "Esca (Black Measles)": "Use fungicides containing pyraclostrobin. Prune affected vines.",
+    "Leaf Blight": "Apply copper-based fungicides. Improve vineyard ventilation.",
+    "Healthy": "No treatment needed. Maintain balanced irrigation."
+  },
+  "tomato": {
+    "Bacterial Spot": "Use copper sprays. Avoid handling plants when wet.",
+    "Early Blight": "Apply fungicides with chlorothalonil. Remove affected leaves.",
+    "Late Blight": "Use systemic fungicides like Metalaxyl. Destroy infected plants.",
+    "Septoria Leaf Spot": "Use fungicides with chlorothalonil. Space plants properly for airflow.",
+    "Yellow Leaf Curl Virus": "Control whiteflies with insecticidal soap. Use resistant varieties.",
+    "Healthy": "No treatment needed. Maintain proper fertilization."
+  }
+}
